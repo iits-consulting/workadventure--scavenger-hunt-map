@@ -1,6 +1,6 @@
 var isFirstTimeTuto = false;
-var textFirstPopup = 'Hi ! This is how to start a discussion with someone ! You can be 4 max in a bubble.';
-var textSecondPopup = 'You can also use the chat to communicate ! ';
+var textFirstPopup = 'Hey ! Welcome to iits world 😊 This is how to start a discussion with someone ! You can be 4 max in a bubble.';
+var textSecondPopup = 'Let\'s play a Scavenger Hunt Game 😊  ';
 var targetObjectTutoBubble ='Tutobubble';
 var targetObjectTutoChat ='tutoChat';
 var targetObjectTutoExplanation ='tutoExplanation';
@@ -26,9 +26,9 @@ function launchTuto (){
                         label: "Open Chat",
                         className: "popUpElement",
                         callback: (popup1) => {
-                            WA.sendChatMessage("Hey you can talk here too!", 'WA Guide');
+                            WA.sendChatMessage("Let's see if you can beat this game. \n If you go through the gates you will come to the next level where you need to solve a riddle. \n If you solve the riddle access to the next level will be granted. Try to solve all 3 levels to get access to the jungle party ;) ", 'WA Guide');
                             popup1.close();
-                            WA.openPopup("TutoFinal","You are good to go! Go through the gate to meet the dev team and discover the features !",[
+                            WA.openPopup("TutoFinal","You are good to go! Go to the next NPC who will explain the game to you",[
                                 {
                                     label: "Got it!",
                                     className : "success",callback:(popup2 => {
