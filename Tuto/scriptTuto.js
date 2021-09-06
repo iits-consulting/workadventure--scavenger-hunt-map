@@ -78,6 +78,7 @@ WA.onEnterZone('popupZone', () => {
     }
 });
 
+
 WA.onLeaveZone('popupZone', () => {
     if (popUpExplanation !== undefined) popUpExplanation.close();
     WA.removeBubble();
