@@ -12,6 +12,7 @@ var soundConfig = {
     loop : false
 }
 
+
 function launchTuto (){
     WA.openPopup(targetObjectTutoBubble, textFirstPopup, [
         {
