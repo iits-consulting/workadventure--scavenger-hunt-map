@@ -132,7 +132,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"html/level1-passwd.html"
+                 "value":"html\/level1-passwd.html"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -196,7 +196,7 @@
          "width":37,
          "x":0,
          "y":0
-        },
+        }, 
         {
          "data":[0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":18,
@@ -205,9 +205,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"level2.json"
+                 "value":"html\/leve1-passwdform.html"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -222,7 +227,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"js/level1.js"
+         "value":"js\/level1.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
@@ -231,7 +236,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets/tilesets_deviant_milkian_1.png",
+         "image":"tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -956,7 +961,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"tilesets/floortileset.png",
+         "image":"tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -988,7 +993,7 @@
         {
          "columns":32,
          "firstgid":321,
-         "image":"tilesets/chaos_zone_shared.png",
+         "image":"tilesets\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1001,7 +1006,7 @@
         {
          "columns":8,
          "firstgid":2369,
-         "image":"tilesets/fantasy.png",
+         "image":"tilesets\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -1014,7 +1019,7 @@
         {
          "columns":32,
          "firstgid":3433,
-         "image":"tilesets/haus_a.png",
+         "image":"tilesets\/haus_a.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1027,7 +1032,7 @@
         {
          "columns":32,
          "firstgid":5481,
-         "image":"tilesets/zw.png",
+         "image":"tilesets\/zw.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -1040,7 +1045,7 @@
         {
          "columns":32,
          "firstgid":7529,
-         "image":"tilesets/ZRPGBeach.png",
+         "image":"tilesets\/ZRPGBeach.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
