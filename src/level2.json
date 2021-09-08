@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"level2.json"
+                 "value":"level3.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -302,7 +302,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"js/level2.js"
+         "value":"js\/level2.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
@@ -311,7 +311,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"tilesets/fantasy.png",
+         "image":"tilesets\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -334,7 +334,7 @@
         {
          "columns":32,
          "firstgid":1065,
-         "image":"tilesets/ZRPGBeach.png",
+         "image":"tilesets\/ZRPGBeach.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -357,7 +357,7 @@
         {
          "columns":8,
          "firstgid":2089,
-         "image":"tilesets/floors.png",
+         "image":"tilesets\/floors.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -380,7 +380,7 @@
         {
          "columns":16,
          "firstgid":2153,
-         "image":"tilesets/officeZeugs.png",
+         "image":"tilesets\/officeZeugs.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -393,7 +393,7 @@
         {
          "columns":8,
          "firstgid":2409,
-         "image":"tilesets/xmas_deco.png",
+         "image":"tilesets\/xmas_deco.png",
          "imageheight":2048,
          "imagewidth":256,
          "margin":0,
@@ -451,7 +451,7 @@
         {
          "columns":8,
          "firstgid":2921,
-         "image":"tilesets/dus_fixing.png",
+         "image":"tilesets\/dus_fixing.png",
          "imageheight":960,
          "imagewidth":256,
          "margin":0,
@@ -464,7 +464,7 @@
         {
          "columns":32,
          "firstgid":3161,
-         "image":"tilesets/haus_a.png",
+         "image":"tilesets\/haus_a.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -477,7 +477,7 @@
         {
          "columns":32,
          "firstgid":5209,
-         "image":"tilesets/chaos_zone_shared.png",
+         "image":"tilesets\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
