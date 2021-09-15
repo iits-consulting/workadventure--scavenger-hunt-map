@@ -1,5 +1,5 @@
 var isFirstTimeTuto = false;
-var textFirstPopup = 'Hey ! Welcome to iits world 😊 This is how to start a discussion with someone ! You can be 4 max in a bubble.';
+var textFirstPopup = 'Hey! Welcome to iits world 😊   This is how to start a discussion with someone!   You can be 4 max in a bubble.';
 var textSecondPopup = 'Let\'s play a Scavenger Hunt Game 😊  ';
 var textThirdPopup = "Let's see if you can beat this game." +
     " If you go through the gates you will come to the next level where you need to solve a riddle." +
