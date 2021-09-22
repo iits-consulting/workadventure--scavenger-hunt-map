@@ -1,5 +1,5 @@
 var isFirstTimeTuto = false;
-var textFirstPopup = 'On level 3, find the whiteboard with the password'
+var textFirstPopup = 'On level 3, find the whiteboard with the password. If the whiteboard doesn\'t open properly, try reloading the page'
 var targetObjectTutoBubble ='level3Message';
 var targetObjectTutoChat ='level3Message';
 var targetObjectTutoExplanation ='level3Message';
