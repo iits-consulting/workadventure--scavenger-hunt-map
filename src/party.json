@@ -54,7 +54,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"lieferando.de"
+                 "value":"https:\/\/www.lieferando.de"
                 }, 
                 {
                  "name":"openWebsitePolicy",
